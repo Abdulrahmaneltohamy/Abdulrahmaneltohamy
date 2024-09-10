@@ -1,9 +1,11 @@
 
-<h1 align="center">👨‍💻 Abdulrahman Eltohamy <br><br>
-  <a align="center" href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;React+js&size=28&color=00A859">
-</a>
-</h1>
+<div style="text-align: center;">
+  <h1>🧑‍💻 Abdulrahman Eltohamy</h1>
+  <br><br>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;React+js&size=28&color=00A859" alt="Typing SVG">
+  </a>
+</div>
 
 <p align="center">
 I’m a passionate Front-End Developer who transforms ideas into engaging user experiences. With a solid foundation in modern web technologies and design principles, I thrive on solving problems and creating responsive, user-friendly applications. I gained substantial experience through the Route Academy, where I completed numerous projects and consistently achieved top results during my studies. I’m eager to embark on my professional journey and take on new challenges.
@@ -71,12 +73,21 @@ I’m a passionate Front-End Developer who transforms ideas into engaging user e
     <img src="https://raw.githubusercontent.com/Abdulrahmaneltohamy/Abdulrahmaneltohamy/main/bookmark.PNG" alt="Project 10" width="250">
   </a>
   
+   <a href="https://abdulrahmaneltohamy.github.io/quote-of-the-day/" target="_blank">
+    <img src="https://raw.githubusercontent.com/Abdulrahmaneltohamy/Abdulrahmaneltohamy/main/quote.PNG" alt="Project 10" width="250">
+  </a>
+
+  
   <a href="https://abdulrahmaneltohamy.github.io/DevFolio/" target="_blank">
     <img src="https://raw.githubusercontent.com/Abdulrahmaneltohamy/Abdulrahmaneltohamy/main/devfoli.png" alt="Project 7" width="250">
   </a>
   
   <a href="https://abdulrahmaneltohamy.github.io/DANIELS/" target="_blank">
     <img src="https://raw.githubusercontent.com/Abdulrahmaneltohamy/Abdulrahmaneltohamy/main/danilsPNG.PNG" alt="Project 8" width="250">
+  </a>
+
+   <a href="https://abdulrahmaneltohamy.github.io/Fokir/" target="_blank">
+    <img src="https://raw.githubusercontent.com/Abdulrahmaneltohamy/Abdulrahmaneltohamy/main/fokircover.PNG" alt="Project 10" width="250">
   </a>
   
   <a href="https://abdulrahmaneltohamy.github.io/Mealify/" target="_blank">

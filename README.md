@@ -2,9 +2,10 @@
 <div align="center">
   <h1>🧑‍💻 Abdulrahman Eltohamy</h1>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;React+js&size=28&color=00A859" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;React+js&center=true&width=500&size=28&color=00A859" alt="Typing SVG">
   </a>
 </div>
+
 
 <p align="center">
 I’m a passionate Front-End Developer who transforms ideas into engaging user experiences. With a solid foundation in modern web technologies and design principles, I thrive on solving problems and creating responsive, user-friendly applications. I gained substantial experience through the Route Academy, where I completed numerous projects and consistently achieved top results during my studies. I’m eager to embark on my professional journey and take on new challenges.
@@ -27,8 +28,8 @@ I’m a passionate Front-End Developer who transforms ideas into engaging user e
 <img src="https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
 <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux.js"/>
 <img src="https://img.shields.io/badge/Material--UI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material UI"/>
+<img src="https://img.shields.io/badge/Sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white" alt="Sass"/>
 
-  <img src="https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </div>
 
 <br/>

@@ -1,7 +1,6 @@
 
 <div align="center">
   <h1>🧑‍💻 Abdulrahman Eltohamy</h1>
-  <br>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;React+js&size=28&color=00A859" alt="Typing SVG">
   </a>

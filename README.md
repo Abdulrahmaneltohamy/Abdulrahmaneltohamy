@@ -1,6 +1,6 @@
 
 <h1 align="center">👨‍💻 Abdulrahman Eltohamy <br><br>
-  <a href="https://git.io/typing-svg">
+  <a align="center" href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;React+js&size=28&color=00A859">
 </a>
 </h1>
@@ -43,44 +43,44 @@ I’m a passionate Front-End Developer who transforms ideas into engaging user e
 <h1 align="center"> Latest Projects </h1>
 
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">
-  <a href="https://vercel.com/abdelrahman-tohamys-projects/e-commerce-app" target="_blank">
-    <img src="https://via.placeholder.com/250?text=Project+1" alt="Project 1" width="250">
+  <a href="https://e-commerce-app-hazel-pi.vercel.app/login" target="_blank">
+    <img src="https://raw.githubusercontent.com/Abdulrahmaneltohamy/Abdulrahmaneltohamy/blob/main/freshcart.PNG" alt="Project 1" width="250">
   </a> 
 
-  <a href="https://vercel.com/abdelrahman-tohamys-projects/react-project" target="_blank">
-    <img src="https://via.placeholder.com/250?text=Project+2" alt="Project 2" width="250">
+  <a href="https://react-project-wine-tau-73.vercel.app/" target="_blank">
+    <img src="https://raw.githubusercontent.com/Abdulrahmaneltohamy/Abdulrahmaneltohamy/main/startframework.PNG" alt="Project 2" width="250">
   </a>
 
   <a href="https://abdulrahmaneltohamy.github.io/Yummy-Food/" target="_blank">
-    <img src="https://via.placeholder.com/250?text=Project+3" alt="Project 3" width="250">
+    <img src="https://raw.githubusercontent.com/Abdulrahmaneltohamy/Abdulrahmaneltohamy/blob/main/yummyfood.PNG" alt="Project 3" width="250">
   </a>
 
   <a href="https://abdulrahmaneltohamy.github.io/Game-Over/" target="_blank">
-    <img src="https://github.com/Abdulrahmaneltohamy/Abdulrahmaneltohamy/blob/main/games.png" alt="Project 4" width="250">
+    <img src="https://raw.githubusercontent.com/Abdulrahmaneltohamy/Abdulrahmaneltohamy/blob/main/games.png" alt="Project 4" width="250">
   </a>
   
   <a href="https://abdulrahmaneltohamy.github.io/Egyption-Party/" target="_blank">
-    <img src="https://via.placeholder.com/250?text=Project+5" alt="Project 5" width="250">
+    <img src="https://raw.githubusercontent.com/Abdulrahmaneltohamy/Abdulrahmaneltohamy/blob/main/egyptionparty.PNG" alt="Project 5" width="250">
   </a>
 
   <a href="https://abdulrahmaneltohamy.github.io/Weather-API/" target="_blank">
-    <img src="https://via.placeholder.com/250?text=Project+6" alt="Project 6" width="250">
+    <img src="https://raw.githubusercontent.com/Abdulrahmaneltohamy/Abdulrahmaneltohamy/blob/main/weather.PNG" alt="Project 6" width="250">
   </a>
 
    <a href="https://abdulrahmaneltohamy.github.io/BookMark/" target="_blank">
-    <img src="https://via.placeholder.com/250?text=Project+10" alt="Project 10" width="250">
+    <img src="https://raw.githubusercontent.com/Abdulrahmaneltohamy/Abdulrahmaneltohamy/blob/main/bookmark.PNG" alt="Project 10" width="250">
   </a>
   
   <a href="https://abdulrahmaneltohamy.github.io/DevFolio/" target="_blank">
-    <img src="https://github.com/Abdulrahmaneltohamy/Abdulrahmaneltohamy/blob/main/devfoli.png" alt="Project 7" width="250">
+    <img src="https://raw.githubusercontent.com/Abdulrahmaneltohamy/Abdulrahmaneltohamy/blob/main/devfoli.png" alt="Project 7" width="250">
   </a>
   
   <a href="https://abdulrahmaneltohamy.github.io/DANIELS/" target="_blank">
-    <img src="https://via.placeholder.com/250?text=Project+8" alt="Project 8" width="250">
+    <img src="https://raw.githubusercontent.com/Abdulrahmaneltohamy/Abdulrahmaneltohamy/main/danilsPNG.PNG" alt="Project 8" width="250">
   </a>
   
   <a href="https://abdulrahmaneltohamy.github.io/Mealify/" target="_blank">
-    <img src="https://via.placeholder.com/250?text=Project+9" alt="Project 9" width="250">
+    <img src="https://raw.githubusercontent.com/Abdulrahmaneltohamy/Abdulrahmaneltohamy/main/mealify.PNG" alt="Project 9" width="250">
   </a>
   
  

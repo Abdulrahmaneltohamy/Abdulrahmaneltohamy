@@ -1,7 +1,7 @@
 
 <h1 align="center">👨‍💻 Abdulrahman Eltohamy <br><br>
   <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;React+js=true&size=28&color=00A859">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;React+js&size=28&color=00A859">
 </a>
 </h1>
 
@@ -56,7 +56,7 @@ I’m a passionate Front-End Developer who transforms ideas into engaging user e
   </a>
 
   <a href="https://abdulrahmaneltohamy.github.io/Game-Over/" target="_blank">
-    <img src="https://via.placeholder.com/250?text=Project+4" alt="Project 4" width="250">
+    <img src="https://github.com/Abdulrahmaneltohamy/Abdulrahmaneltohamy/blob/main/games.png" alt="Project 4" width="250">
   </a>
   
   <a href="https://abdulrahmaneltohamy.github.io/Egyption-Party/" target="_blank">
@@ -72,7 +72,7 @@ I’m a passionate Front-End Developer who transforms ideas into engaging user e
   </a>
   
   <a href="https://abdulrahmaneltohamy.github.io/DevFolio/" target="_blank">
-    <img src="https://via.placeholder.com/250?text=Project+7" alt="Project 7" width="250">
+    <img src="https://github.com/Abdulrahmaneltohamy/Abdulrahmaneltohamy/blob/main/devfoli.png" alt="Project 7" width="250">
   </a>
   
   <a href="https://abdulrahmaneltohamy.github.io/DANIELS/" target="_blank">

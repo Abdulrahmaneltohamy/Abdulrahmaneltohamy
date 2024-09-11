@@ -73,26 +73,27 @@ I’m a passionate Front-End Developer who transforms ideas into engaging user e
     <img src="https://raw.githubusercontent.com/Abdulrahmaneltohamy/Abdulrahmaneltohamy/main/bookmark.PNG" alt="Project 10" width="250">
   </a>
   
-   <a href="https://abdulrahmaneltohamy.github.io/quote-of-the-day/" target="_blank">
-    <img src="https://raw.githubusercontent.com/Abdulrahmaneltohamy/Abdulrahmaneltohamy/main/quote.PNG" alt="Project 10" width="250">
-  </a>
-
-  
   <a href="https://abdulrahmaneltohamy.github.io/DevFolio/" target="_blank">
     <img src="https://raw.githubusercontent.com/Abdulrahmaneltohamy/Abdulrahmaneltohamy/main/devfoli.png" alt="Project 7" width="250">
+  </a>
+  
+   <a href="https://abdulrahmaneltohamy.github.io/quote-of-the-day/" target="_blank">
+    <img src="https://raw.githubusercontent.com/Abdulrahmaneltohamy/Abdulrahmaneltohamy/main/quote.PNG" alt="Project 10" width="250">
   </a>
   
   <a href="https://abdulrahmaneltohamy.github.io/DANIELS/" target="_blank">
     <img src="https://raw.githubusercontent.com/Abdulrahmaneltohamy/Abdulrahmaneltohamy/main/danilsPNG.PNG" alt="Project 8" width="250">
   </a>
   
+   <a href="https://abdulrahmaneltohamy.github.io/Fokir/" target="_blank">
+    <img src="https://raw.githubusercontent.com/Abdulrahmaneltohamy/Abdulrahmaneltohamy/main/fokircover.PNG" alt="Project 10" width="250">
+  </a>
+  
  <a href="https://abdulrahmaneltohamy.github.io/Mealify/" target="_blank">
     <img src="https://raw.githubusercontent.com/Abdulrahmaneltohamy/Abdulrahmaneltohamy/main/mealify.PNG" alt="Project 9" width="250">
   </a>
 
-   <a href="https://abdulrahmaneltohamy.github.io/Fokir/" target="_blank">
-    <img src="https://raw.githubusercontent.com/Abdulrahmaneltohamy/Abdulrahmaneltohamy/main/fokircover.PNG" alt="Project 10" width="250">
-  </a>
+  
   
  
 </div>

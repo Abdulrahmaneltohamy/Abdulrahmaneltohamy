@@ -62,7 +62,7 @@ I’m a passionate Front-End Developer who transforms ideas into engaging user e
 
 [![Linkedin: Abdelrahman Tohamy](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdelrahman-tohammy127/)](https://www.linkedin.com/in/abdelrahman-tohammy127/)
 
-[![WhatsApp: Abdelrahman Tohamy](https://img.shields.io/badge/-WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://wa.me/201026615084)](https://wa.me/201026615084)&nbs;
+[![WhatsApp: Abdelrahman Tohamy](https://img.shields.io/badge/-WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://wa.me/201026615084)](https://wa.me/201026615084)&nbsp;
 
 </div>
 

@@ -38,19 +38,17 @@ I’m a passionate Front-End Developer who transforms ideas into engaging user e
 
 <br/>
 
-<div style="display: flex; flex-direction: column; justify-content: center; align-items: center; height: 100vh; background-color: #f5f5f5; padding: 20px; border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+<div style="display: flex; flex-direction: column; justify-content: center; align-items: center; min-height: 100vh; background-color: #f5f5f5; padding: 20px; border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
   
-  <div style="margin: 20px 0;">
+  <div style="margin: 20px 0; text-align: center;">
     <img src="https://streak-stats.demolab.com?user=Abdulrahmaneltohamy&locale=en&mode=weekly&theme=radical&hide_border=true&border_radius=10&date_format=M%20j%5B,%20Y%5D" alt="GitHub Streak" style="border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);" />
   </div>
   
-  <div style="margin: 20px 0;">
+  <div style="margin: 20px 0; text-align: center;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdulrahmaneltohamy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true" alt="Top Languages" style="border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);" />
   </div>
 
 </div>
-
-
 
 
 ---

@@ -53,7 +53,19 @@ I’m a passionate Front-End Developer who transforms ideas into engaging user e
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdulrahmaneltohamy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true" alt="Top Languages" style="display: block; margin: auto;" />
 </div>
 
+<br>
+<h2 align="center">📫 Connect with me</h2>
 
+<div align = "center">
+  
+[![Gmail: Abdelrahman Tohamy](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:eltohammy23@gmail.com)](mailto:eltohammy23@gmail.com)&nbsp;
+
+[![Linkedin: Abdelrahman Tohamy](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdelrahman-tohammy127/)](https://www.linkedin.com/in/abdelrahman-tohammy127/)
+
+
+</div>
+
+<br>
 
 
 

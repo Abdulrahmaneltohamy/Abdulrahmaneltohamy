@@ -56,15 +56,20 @@ I’m a passionate Front-End Developer who transforms ideas into engaging user e
 <br>
 <h2 align="center">📫 Connect with me</h2>
 
-<div align = "center">
-  
-[![Gmail: Abdelrahman Tohamy](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:eltohammy23@gmail.com)](mailto:eltohammy23@gmail.com)&nbsp;
-
-[![Linkedin: Abdelrahman Tohamy](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdelrahman-tohammy127/)](https://www.linkedin.com/in/abdelrahman-tohammy127/)
-
-[![WhatsApp: Abdelrahman Tohamy](https://img.shields.io/badge/-WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://wa.me/201026615084)](https://wa.me/201026615084)&nbsp;
-
+<div align="center">
+  <a href="mailto:eltohammy23@gmail.com">
+    <img src="https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail: Abdelrahman Tohamy"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/abdelrahman-tohammy127/">
+    <img src="https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Linkedin: Abdelrahman Tohamy"/>
+  </a>
+  &nbsp;
+  <a href="https://wa.me/201026615084">
+    <img src="https://img.shields.io/badge/-WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp: Abdelrahman Tohamy"/>
+  </a>
 </div>
+
 
 
 

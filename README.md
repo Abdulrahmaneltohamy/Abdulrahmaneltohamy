@@ -8,7 +8,7 @@
 
 
 <p align="center">
-I’m a passionate Front-End Developer who transforms ideas into engaging user experiences. With a solid foundation in modern web technologies and design principles, I thrive on solving problems and creating responsive, user-friendly applications. I gained substantial experience through the Route Academy, where I completed numerous projects and consistently achieved top results during my studies. I’m eager to embark on my professional journey and take on new challenges.
+I’m a passionate Front-End Developer who transforms ideas into engaging user experiences. With a solid foundation in modern web technologies and design principles, I thrive on solving problems and creating responsive, user-friendly applications. In addition to my studies at Route Academy, where I completed numerous projects and consistently ranked among the top performers, I have over two years of experience studying various programming courses and technologies. Currently, I am in a continuous phase of learning, development, and skill-building, taking on new projects to further enhance my expertise. I’m eager to embrace new challenges and continue growing in my professional journey.
 </p>
 
 ---
@@ -16,6 +16,7 @@ I’m a passionate Front-End Developer who transforms ideas into engaging user e
 <h1 align="center"> 💻 Tech Stack </h1>
 
 <div align="center">
+  <img src="https://img.shields.io/badge/cs50-%23007ACC.svg?style=for-the-badge&logo=harvard&logoColor=white" alt="CS50"/>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>

@@ -38,11 +38,20 @@ I’m a passionate Front-End Developer who transforms ideas into engaging user e
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdulrahmaneltohamy&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="130" alt="stats graph" />
-  <img src="https://streak-stats.demolab.com?user=Abdulrahmaneltohamy&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=12&date_format=M%20j%5B,%20Y%5D" height="130" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdulrahmaneltohamy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="130" alt="languages graph" />
+<div style="display: flex; justify-content: space-around; align-items: center; background-color: #f5f5f5; padding: 20px; border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+  <div style="flex: 1; margin: 0 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Abdulrahmaneltohamy&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true" alt="GitHub Stats" style="border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);" />
+  </div>
+  
+  <div style="flex: 1; margin: 0 10px;">
+    <img src="https://streak-stats.demolab.com?user=Abdulrahmaneltohamy&locale=en&mode=weekly&theme=radical&hide_border=true&border_radius=10&date_format=M%20j%5B,%20Y%5D" alt="GitHub Streak" style="border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);" />
+  </div>
+  
+  <div style="flex: 1; margin: 0 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdulrahmaneltohamy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true" alt="Top Languages" style="border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);" />
+  </div>
 </div>
+
 
 ---
 

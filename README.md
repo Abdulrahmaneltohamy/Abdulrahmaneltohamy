@@ -1,6 +1,6 @@
 
 <div align="center">
-  <h1>Abdulrahman Eltohamy</h1>
+  <h1>Hi 👋, I'm Abdulrahman Eltohamy</h1>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;React+js&center=true&width=500&size=28&color=00A859" alt="Typing SVG">
   </a>

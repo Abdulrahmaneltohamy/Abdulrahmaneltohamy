@@ -24,7 +24,7 @@ I’m a passionate Front-End Developer who transforms ideas into engaging user e
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
   <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery"/>
   <img src="https://img.shields.io/badge/ajax-%2300C7B7.svg?style=for-the-badge&logo=ajax&logoColor=white" alt="AJAX"/>
-  <img src="https://img.shields.io/badge/es6-%234FC08D.svg?style=for-the-badge&logo=javascript&logoColor=white
+  <img src="https://img.shields.io/badge/es6-%234ECD3C.svg?style=for-the-badge&logo=javascript&logoColor=white" alt="ES6"/>
   <!-- -->
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
 <img src="https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>

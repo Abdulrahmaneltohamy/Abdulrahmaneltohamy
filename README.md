@@ -40,10 +40,17 @@ I’m a passionate Front-End Developer who transforms ideas into engaging user e
 
 ## GitHub Stats
 
+## GitHub Stats
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Abdulrahmaneltohamy&locale=en&mode=weekly&theme=radical&hide_border=true&border_radius=10&date_format=M%20j%5B,%20Y%5D" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdulrahmaneltohamy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true" alt="Top Languages" />
+  <div>
+    <img src="https://streak-stats.demolab.com?user=Abdulrahmaneltohamy&locale=en&mode=weekly&theme=radical&hide_border=true&border_radius=10&date_format=M%20j%5B,%20Y%5D" alt="GitHub Streak" />
+  </div>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdulrahmaneltohamy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true" alt="Top Languages" />
+  </div>
 </div>
+
 
 
 
